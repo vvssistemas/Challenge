@@ -10,7 +10,7 @@ Como funciona o desenvolvimento aqui?
 Nosso time de .Net é enxuto, apaixonado por novidades e movidos por desafios, queremos desenvolvedores que fiquem incomodados quando são desafiados.
 Em contrapartida, somos um time unido que acredita que é possível fazer melhor com menos, que não tem medo de novidades tecnológicas e muito menos são fanáticos por uma moda.
 Você vai encontrar no nosso time, alguns profissionais casca grossa, que chegam junto e estão sempre dispostos a ajudar.
-Tem o Dorba que faz os piores trocadilhos, o Fábio que fica cantarolando, temos a fabíola(a melhor analista de requisitos da equipe) e temos o "the boss"! Um monte de gente boa que você vai amar trabalhar. S2
+Tem o Dorba que faz os piores trocadilhos, o Fábio que fica cantarolando, temos a Fabíola(a melhor analista de requisitos da equipe) e temos o "the boss"! Um monte de gente boa que você vai amar trabalhar. S2
 
 Abaixo algumas ferramentas/tecnologias que utilizamos por aqui:
   - TFS
