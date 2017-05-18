@@ -18,7 +18,7 @@ Abaixo algumas ferramentas/tecnologias que utilizamos por aqui:
   - Team City
   - You Track  
   - Enterprise Architect  
-  - HTML 5 / JavaScript / knockout / AngularJs
+  - HTML 5 / JavaScript / AngularJs
   - WebSockets
   - DDD
   - WPF
