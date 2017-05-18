@@ -1,3 +1,5 @@
+<p align="center"><img src="https://vignette2.wikia.nocookie.net/animaljam/images/d/d2/Challenge-accepted.png/revision/latest?cb=20140928111255animaljam.wikia.com/wiki/File_talk:Challenge-accepted.png" alt="Challenge Accepeted"></p>
+
 Por que trabalhar na VVS Sistemas?
 ===============================
 
